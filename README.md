@@ -1,6 +1,6 @@
 # Stock Price Analysis & Prediction Web Application
 
-![Stock Price Analysis & Prediction](pic02.jpg)
+![Stock Price Analysis & Prediction](pic01.jpg)
 
 This web application allows you to analyze and predict stock prices using various techniques and machine learning models.
 
