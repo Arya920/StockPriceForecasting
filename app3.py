@@ -544,6 +544,7 @@ if (selected == 'Prediction'):
 if (selected=='Credits'):
         st.markdown('''**:green[This Web Application is currently under devoloped & owned by Arya Chakraborty [22MSD7020][VIT-AP]\\
                 & Rituparno Das [22MSD7027, VIT=AP]   
-                For more info please contact me here ~\\
-www.linkedin.com/in/arya-chakraborty-95a8411b2]**''')
+                For more info you can contact me or my colluge  here ~\\
+                www.linkedin.com/in/arya-chakraborty-95a8411b2 \\
+                https://www.linkedin.com/in/rituparno-das-473a01198/]**''')
     
