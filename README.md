@@ -1,6 +1,6 @@
 # Stock Price Analysis & Prediction Web Application
 
-![Stock Price Analysis & Prediction](stock2.jpg)
+![Stock Price Analysis & Prediction](pic01.jpg)
 
 This web application allows you to analyze and predict stock prices using various techniques and machine learning models.
 
@@ -71,14 +71,16 @@ To run this project on your local machine, follow these steps:
 
 ### The project is organized as follows:
 
-- *Dataset:* Provides a visualization of the stock data, including the first and last five records, statistical description, and area chart for volume.
+The Stock Price Analysis & Prediction Web Application, conceived by[Arya Chakraborty](https://www.linkedin.com/in/arya-chakraborty-95a8411b2/) & [Rituparno Das](linkedin.com/in/rituparno-das-473a01198), is an innovative platform harnessing cutting-edge technologies to empower users with an enhanced understanding of stock market dynamics. By amalgamating advanced analytics, machine learning, and data visualization, the application grants users a multifaceted toolkit to analyze, forecast, and interpret stock market trends.
 
-- *Analysis:* Performs statistical analysis, technical analysis, and visualizes trends and distributions in the data.
+Built using Streamlit, a Python framework designed for creating dynamic web applications, the platform encapsulates an array of functionalities. Leveraging historical stock data, it furnishes users with an interactive dashboard to inspect trends across temporal horizons. The application's core technical prowess lies in its implementation of the Long Short-Term Memory (LSTM) neural network model, harnessed for predictive analytics. By employing deep learning techniques, it prognosticates future stock prices, empowering users to foresee potential investment opportunities.
 
-- *Prediction:* Implements a LSTM (Long Short-Term Memory) model for predicting stock prices. Users can input a number of days for future prediction and validate the model's performance.
+The project seamlessly melds diverse technologies, including Numpy, Seaborn, Matplotlib, Keras, and more, to seamlessly integrate data manipulation, visualization, and machine learning. Furthermore, the platform's user-friendly interface ensures accessibility for both novice investors and seasoned analysts, enabling them to validate and refine their trading strategies with a granular understanding of market behaviors.
+
+In summation, the Stock Price Analysis & Prediction Web Application is an exemplar of how technological innovation can amplify financial insights. By encapsulating data-driven intelligence and predictive modeling, it transcends traditional investment analysis paradigms, propelling users toward informed and confident decision-making in the complex world of finance.
 
 
-## Contributing 
+## Contribution
 
 If you're interested in contributing to this project, please feel free to fork the repository, make changes, and submit a pull request. Your contributions are greatly appreciated! 
 
