@@ -4,14 +4,15 @@
 
 This web application allows you to analyze and predict stock prices using various techniques and machine learning models.
 
+## *[Direct Link:](https://stockpriceforecasting.streamlit.app/)*
+
 ## Table of Contents
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
 - [Technologies Used](#technologies-used)
 - [Project Explanation](#project-explanation)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#contribution)
 - [Credits](#credits)
 
 ## Overview
