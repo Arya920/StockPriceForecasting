@@ -1,4 +1,4 @@
-### Stock Price Analysis & Prediction Web Application
+# Stock Price Analysis & Prediction Web Application
 
 ![Stock Price Analysis & Prediction](stock2.jpg)
 
