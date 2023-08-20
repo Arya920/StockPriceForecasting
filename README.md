@@ -51,3 +51,44 @@ To run this project on your local machine, follow these steps:
 - *`yfinance`*
 - *`PIL`*
 
+*NS: Install these dependencies using the provided requirements.txt file*
+
+## Technologies Used
+
+- Streamlit: Framework for building interactive web applications using Python.
+
+- Numpy, Seaborn, Matplotlib: Data visualization libraries for creating informative plots.
+
+- Keras: Used for loading the LSTM model for stock price prediction.
+
+- Pandas: Data manipulation library for handling and analyzing data.
+
+- pandas_datareader, yfinance: Used for fetching stock data from Yahoo Finance.
+
+- PIL: Python Imaging Library for working with images.
+
+## Project Explanation
+
+### The project is organized as follows:
+
+- *Dataset:* Provides a visualization of the stock data, including the first and last five records, statistical description, and area chart for volume.
+
+- *Analysis:* Performs statistical analysis, technical analysis, and visualizes trends and distributions in the data.
+
+- *Prediction:* Implements a LSTM (Long Short-Term Memory) model for predicting stock prices. Users can input a number of days for future prediction and validate the model's performance.
+
+
+## Contributing 
+
+If you're interested in contributing to this project, please feel free to fork the repository, make changes, and submit a pull request. Your contributions are greatly appreciated! 
+
+## Credits
+
+<p align="center">
+  <a href="https://arya920.github.io/My_Portfolio/">
+    <img src="Arya_Chakraborty.jpg" alt="Arya Chakraborty" width="250">  
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Add some space between images -->
+ <a href="https://www.linkedin.com/in/rituparno-das-473a01198/">
+    <img src="Rituparno_Das.jpg" alt="Rituparno Das" width="250"> 
+  </a>
