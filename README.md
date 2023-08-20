@@ -16,7 +16,7 @@ This web application allows you to analyze and predict stock prices using variou
 
 ## Overview
 
-This Streamlit web application has been developed by [Arya Chakraborty](https://www.linkedin.com/in/arya-chakraborty-95a8411b2/). The application allows users to analyze historical stock data, perform technical analysis, and even predict future stock prices using deep learning models.
+This Streamlit web application has been developed by [Arya Chakraborty](https://www.linkedin.com/in/arya-chakraborty-95a8411b2/) & [Rituparno Das](linkedin.com/in/rituparno-das-473a01198). The application allows users to analyze historical stock data, perform technical & statistical analysis, and even predict future stock prices using deep learning models.
 
 ## Getting Started
 
@@ -26,3 +26,28 @@ To run this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/stock-price-analysis-app.git
    cd stock-price-analysis-app
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+
+3. Run the Streamlit APP:
+    ```bash
+    streamlit run app.py
+
+*Access the app in your web browser at http://localhost:8501*
+
+## Requirements
+
+- *`Python 3.7 or higher`*
+- *`Streamlit`*
+- *`Numpy`*
+- *`Seaborn`*
+- *`Matplotlib`*
+- *`Keras`*
+- *`Pandas`*
+- *`datetime`*
+- *`pandas_datareader`*
+- *`yfinance`*
+- *`PIL`*
+
