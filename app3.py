@@ -1,4 +1,4 @@
-# This Streamlit Web application has been created by ~ Arya Chakraborty [22MSD7020, VIT-AP]
+# This Streamlit Web application has been created by ~ Arya Chakraborty [22MSD7020, VIT-AP] & Rituparno Das [22MSD7027, VIT-AP]
 # Contact me here ~ "https://www.linkedin.com/in/arya-chakraborty-95a8411b2/"
 #  please visit the official streamlit documentation site to know in details ~ "https://docs.streamlit.io/"
 
@@ -542,7 +542,8 @@ if (selected == 'Prediction'):
 
         # <--------CREDITS------->
 if (selected=='Credits'):
-        st.markdown('''**:green[This Web Application is currently under devoloped & owned by Arya Chakraborty [22MSD7020][VIT-AP].\\
-For more info please contact me here ~\\
+        st.markdown('''**:green[This Web Application is currently under devoloped & owned by Arya Chakraborty [22MSD7020][VIT-AP]\\
+                & Rituparno Das [22MSD7027, VIT=AP]   
+                For more info please contact me here ~\\
 www.linkedin.com/in/arya-chakraborty-95a8411b2]**''')
     
